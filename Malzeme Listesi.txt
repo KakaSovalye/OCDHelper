@@ -1,0 +1,7 @@
+2 x SG90
+1 x TCS34725
+5 x Dişi Erkek jumper
+6 x Erkek Erkek jumper
+1 x Arduino UNO
+1 x Breadboard
+4 x 2,2x7mm Vida
